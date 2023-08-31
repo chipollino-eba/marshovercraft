@@ -1,0 +1,12 @@
+<svg width="800" height="600.0000000000001" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_15_blur">
+   <feGaussianBlur stdDeviation="3" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="normal" font-style="italic" transform="matrix(1.56626 0 0 1.79757 -345.796 -245.363)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Quicksand'" font-size="24" id="svg_1" y="294.27121" x="372.16439" stroke-width="0" fill="#000000">MarsHoverCraft</text>
+  <path filter="url(#svg_15_blur)" stroke="#000" opacity="0.5" id="svg_15" d="m506.14687,287.30245l2.92545,-4.70598l11.70185,-1.1765l-14.6273,5.88247l-73.13481,0l0,-35.29413l87.76211,0l0,29.41166" stroke-width="0" fill="#000000"/>
+ </g>
+</svg>

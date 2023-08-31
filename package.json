@@ -1,0 +1,23 @@
+{
+   "name": "marshovercraft",
+   "version": "1.0.0",
+   "description": "project",
+   "main": "index.js",
+   "scripts": {
+      "test": "scripts: { start: node server.js }",
+      "sass": "sass ./scss/style.scss ./css/style.css --watch"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/vadimshamshin/marshovercraft.git"
+   },
+   "keywords": [
+      "112233"
+   ],
+   "author": "Vadim Shamshin",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/vadimshamshin/marshovercraft/issues"
+   },
+   "homepage": "https://github.com/vadimshamshin/marshovercraft#readme"
+}
